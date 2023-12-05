@@ -1,4 +1,4 @@
-# phpiggy
+# expiggy
  A PHP application for tracking expenses.
  # PHP Expense Tracking Application
 
